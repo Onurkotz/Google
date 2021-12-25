@@ -1,0 +1,114 @@
+/******************************** container ve resim alanı****************************************/
+
+.container {
+    width: 1000px;
+    height: 260px;
+    margin: auto;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 351px;
+    height: 113px;
+}
+    
+
+/******************************************Arama çubuğu*******************************************/
+
+.arama {
+    width: 1000px;
+    background-color: #EEEEEE;
+    text-align: center;
+    padding-bottom: 0px;
+
+}
+
+.bar input[type=text] {
+    float: right;
+    margin-right: 16px;
+    border: none;
+  }
+
+  .bttn {
+      width: 104px;
+      height: 21px;
+      background-color: #EFEFEF;
+      text-align: center;
+      font-size: 12px;
+      border: 1px solid;
+      border-radius: 3px;
+    }
+    
+
+    .bttn1:hover {
+        background-color: #efefefda;
+      }
+
+    .bttn2 {
+    width: 17%;
+}
+      
+    
+
+/*****************************************************Alt Kutular********************************************/
+
+.content {
+    width: 1000px;
+    margin: auto;
+    padding: 2px;
+}
+
+
+
+.card1 {
+    width: 365px;
+    height: 65px;
+    background-color: #7EE5DA;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 15px;
+
+}
+
+.card2 {
+    width: 200px;
+    height: 80px;
+    background-color: #70CCC2;
+    float: left;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 2px;
+    margin-right: 2px;
+   
+ }
+
+.card3 {
+    width: 430px;
+    height: 80px;
+    background-color: #62B3AA;
+    float: left;
+    text-align: center;
+    font-size: 13px;
+}
+
+.bar2 input[type=text2] {
+    float: right;
+    margin-right: 16px;
+    border: none;
+}
+
+
+/*******************************************Copyr*********************************/
+
+.center {
+    text-align: center;
+    font-size: 12px;
+    background-color: white;
+    width: 300px;
+    height: 10px;
+    margin: auto;
+    
+}
